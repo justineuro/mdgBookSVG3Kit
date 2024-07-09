@@ -39,7 +39,7 @@ Also, line 34 of the `HOWTO` is set by default so that each new book created con
 ## Similar Kits on GitHub
 MDG Book kits similar to this may be found on related GitHub sites such as:
 
-- [mdgBookSVGKit](https://github.com/justineuro/mdgBookSVGKit) - MDG based on [*Musikalisches W&uuml;rferspiel, K. 516f*](http://imslp.org/wiki/Musikalische\s_W\%C3\%BCrfelspiel,\_K.516f\_%28Mozart,\_Wolfgang\_Amadeus\%29), attributed to Wolfgang Amadeus Mozart
+- [mdgBookSVGKit](https://github.com/justineuro/mdgBookSVGKit) - MDG based on [*Musikalisches W&uuml;rferspiel, K. 516f*](http://imslp.org/wiki/Musikalisches_W%C3%BCrfelspiel,_K.516f_%28Mozart,_Wolfgang_Amadeus%29), attributed to Wolfgang Amadeus Mozart
 - [mdgBookSVG4Kit](https://github.com/justineuro/mdgBookSVG4Kit) - MDG based on [*Table pour composer des Minuets et des Trios &agrave; la infinie*]({http://imslp.org/wiki/Table_pour_composer_des_Minuets_et_des_Trios_%C3%A0_la_infinie_(Stadler,_Maximilian)), similar to the MDG in this site but arranged for a haprsichord or pianoforte (clavier, clavichord).
 - [mdgBookSVG4itKit](https://github.com/justineuro/mdgBookSVG4itKit) - MDG based on [*Gioco Filarmonico o sia maniera facile per comporre un infinito numero di menuetti e trio, anche senza sapere il contrapunto*](http://imslp.org/wiki/Table_pour_composer_des_Minuets_et_des_Trios_%C3%A0_la_infinie_(Stadler,_Maximilian)); similar to  [mdgBookSVG4Kit](https://github.com/justineuro/mdgBookSVG4Kit) but arranged for three (3) instruments
 

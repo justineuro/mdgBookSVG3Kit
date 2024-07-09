@@ -29,7 +29,7 @@ To personalize one's generated book (in addition to the randomly generated minue
 Once the desired changes have been made to the files above, one can then re-compile the book by issuing, in the `res` subdirectoy, the last set of commmands in the HOWTO file:
 ```shell
 pdflatex -synctex=1 -interaction=nonstopmode -shell-escape mdgBookSVG3v1.tex
-bibtex mdgBookSVGv1.aux
+bibtex mdgBookSVG3v1.aux
 pdflatex -synctex=1 -interaction=nonstopmode -shell-escape mdgBookSVG3v1.tex
 pdflatex -synctex=1 -interaction=nonstopmode -shell-escape mdgBookSVG3v1.tex
 ```

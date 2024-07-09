@@ -1,0 +1,45 @@
+%%pagewidth	8.5in
+%%barsperstaff	8 % number of measures per staff
+%%measurebox	false % measure numbers in a box
+%%measurenb	1
+X:1
+T:
+%%setfont-1 Courier-Bold 12
+T:Der allezeit fertige Polonoisen und Menuettencomponist (Minuet)
+T:$1[https://imslp.org/wiki/Der_allezeit_fertige_Polonoisen-_und_Menuettencomponist_(Kirnberger\%2C_Johann_Philipp)]$0
+C:Johann Philipp Kirnberger
+S:
+M:3/4
+L:1/4
+Q:1/4=90
+%%staves [1 2]
+V:1 clef=treble
+V:2 clef=bass
+K:D
+%
+[V:1]
+G,/B,/D/G/B/d/ | g3/4b/4e3/4g/4f3/4a/4 | (3^g/a/b/ !trill!g2 | a/B/ z/ ^d/f/a/ | {a}g f/e/ f | A,/C/!trill!B,/A,/ c | dfa | A3 | 
+f3/4a/4c3/4e/4 d | c/e/d/c/!trill!B/A/ | f/d/c/d/f/a/ | g3/4b/4^d3/4f/4 e | (3f/g/a/ f (3c/d/e/ | f/e/{e2}f2 | g/a/ z/ c/e/g/ | D3 | 
+(3B/A/G/ BB | (3f/e/d/ ff | f/D/ z/ a/(c/d/) | G/e/E/G/ F | z/ A/B/A/e/g/ | a/d/ {g}f{e}d | A/d/fe | D3 | 
+B/G/F/G/B/d/ | d/D/ F!trill!E | d/F/G/e/E/c/ | D/G/ {=c}B {A}G | D/A/ (gf) | f/d/A/F/ D | {A}!trill!G2F | a f/a/c/e/ | 
+(3a/g/f/ aa | (3g/e/d/ (3c/d/e/ (3A/a/g/ | c/e/ A,3/ c/ | A3 | E/B/ a^g | aBa | (3f/e/d/ (3c/d/e/ d | D3 | 
+D/F/!trill!E/D/ f | a/b/g/e/f/d/ | d/f/a3/c/ | z/B/=c/B/f/a/ | G,/B,/A,/G,/ B | g/e/B/G/ E | d/c/!trill!B/A/ d | A3 | 
+B/e/ {a}^g{f}e | D/F/A/d/f/a/ | E/A/{d}c{B}A | a/A/ c !trill!B | {f}!trill!e2 d | d/f/e/g/ f | (3a/f/e/ (3^d/e/f/ (3B/b/a/ | a/c/d/b/B/^g/ | 
+d/b/a/c/ d | A3 | ac!trill!B | g/f/{f}g2 | (3c/d/e/ !trill!c2 | e/g/f/a/ g | D/F/A/d/c/e/ | A/e/ g f3/4a/4 | 
+G,/D/ (cB) | d/D/{D2}!trill!E2 | a/A/ {A2}!trill!B2 | A,/E/ (dc) | ^g/b/a/g/!trill!f/e/ | {d2}!trill!c2d | (3a/e/d/ (3c/B/A/ (3^G/A/B/ | (3d/A/B/ F!trill!E | 
+A3 | A/g/!trill!f/e/ f | d/D/d2 | (3g/f/e/ (3^d/e/f/ e |  d3/4d'/4 ba | g/e/ z/ b/^d/e/ | DFA | gAg | 
+D3 | dF!trill!E | ^g/b/ E3/ g/ | e/A/!trill!B/A/f/a/ | D3 | e/c/ A3/ f/ | (3a/e/f/ c!trill!B | (3g/f/e/ gg | 
+E/^G/!trill!F/E/ ^G | A3 | (3d/A/G/ (3F/E/D/ (3C/D/E/ | f/a/g/f/!trill!e/d/ | g/b/a/g/!trill!f/e/ | z/ e/c/A/g/e/ | z/ f/^d/B/a/f/ | D3 ||
+[V:2]
+G,B,G, | E,C,D, | zE,D, | ^D,B,,D, | E,A,,D, | zG,3/A,/ | F,/E,/ D,3/ D/ | A,, A,/G,/F,/E,/ | 
+D,A,,D,, | zG,G, | zD,D, | E,B,,E,, | DA,G, | D,3/ A,/F,/D,/ | C,A,,C, | D,A,,D,, | 
+zG,G, | zD,D, | D,E,F, | E,C,D, | C,3 | zD,D, | D,DA, | D,A,,D,, | 
+G,G,G, | F,/G,/ A,A,, | D,G,A, | G,G,G, | zD,D, | D,3/ D,/F,/D,/ | E,A,,D, | D,D,A, | 
+^D,3/ B,,/D,/B,,/ | C,A,,C, | A,, C,/E,/G,,/G,/ | A,, A,/G,/F,/E,/ | zD,D, | ^D,3/ B,,/C,/D,/ | D,G,F, | D,A,,D,, | 
+zD,D, | C,C,D, | D,F,/D,/A,/G,/ | ^D,3 | G,G,G, | E,3/ E,/G,/E,/ | F,G,F, | A,, A,/G,/F,/E,/ | 
+zE,E, | zF,D, | zG,G, | C,/D,/ E,E,, | A,A,,D, | F,C,D, | ^D,B,,D, | C,D,E, | 
+F,3/ G,/F, | A,, A,/G,/F,/E,/ | C,/D,/ E,E,, | E,3/ B,/G,/E,/ | A,, A,/C,/E,/G,/ | C,D,G, | D,3/F,/A, | C,2D, | 
+G,G,G | F,/G,/A,A,, | C,/D,/ E,E,, | zG,G, | zD,D, | A,A,,D, | C,3/4D,/4 E,E,, | F,/G,/ A,A,, | 
+A,, A,/G,/F,/E,/ | A,C,D, | F,3/ E,/F,/D,/ | E,A,G, | F,G,F, | E,F,G, | D,F, A,/G,/ | C,3/ A,,/B,,/C,/ | 
+D,A,,D,, | F,/G,/ A,A,, | E, ^G,/B,/D,/B,/ | C,C,D, | D,A,,D,, | C,3/ A,,/D | C,3/4D,/4 E,E,, | C,3/ A,,/C,/A,,/ | 
+z D,3/E,/ | A,, A,/G,/F,/E,/ | F,3/4G,/4 A,A,, | D,E,F, | E,F,G, | C,3/ A,/B,,/C,/ | ^D,3/ B,,/C,/D,/ | D,A,,D,, ||

@@ -63,13 +63,13 @@
 # also corresponding *pdf_tex files using inkscape
 
 	abcm2ps -v -O= knbgr-easy-minuet.abc
-	inkscape -D -z --file=knbgr-easy-minuet001.svg --export-pdf=knbgr-easy-minuet001.pdf --export-latex
-	inkscape -D -z --file=knbgr-easy-minuet002.svg --export-pdf=knbgr-easy-minuet002.pdf --export-latex
+	inkscape --export-filename=knbgr-easy-minuet001.pdf --export-area-drawing --export-latex knbgr-easy-minuet001.svg
+	inkscape --export-filename=knbgr-easy-minuet002.pdf --export-area-drawing --export-latex knbgr-easy-minuet002.svg
 
 	abcm2ps -v -O= knbgr-easy-trio.abc
-	inkscape -D -z --file=knbgr-easy-trio001.svg --export-pdf=knbgr-easy-trio001.pdf --export-latex
-	inkscape -D -z --file=knbgr-easy-trio002.svg --export-pdf=knbgr-easy-trio002.pdf --export-latex
-	inkscape -D -z --file=knbgr-easy-trio003.svg --export-pdf=knbgr-easy-trio003.pdf --export-latex
+	inkscape --export-filename=knbgr-easy-trio001.pdf --export-area-drawing --export-latex knbgr-easy-trio001.svg
+	inkscape --export-filename=knbgr-easy-trio002.pdf --export-area-drawing --export-latex knbgr-easy-trio002.svg
+	inkscape --export-filename=knbgr-easy-trio002.pdf --export-area-drawing --export-latex knbgr-easy-trio003.svg
 
 ##	and "_" (5x); and \url{---}for URL
 

@@ -69,7 +69,7 @@
 	abcm2ps -v -O= knbgr-easy-trio.abc
 	inkscape --export-filename=knbgr-easy-trio001.pdf --export-area-drawing --export-latex knbgr-easy-trio001.svg
 	inkscape --export-filename=knbgr-easy-trio002.pdf --export-area-drawing --export-latex knbgr-easy-trio002.svg
-	inkscape --export-filename=knbgr-easy-trio002.pdf --export-area-drawing --export-latex knbgr-easy-trio003.svg
+	inkscape --export-filename=knbgr-easy-trio003.pdf --export-area-drawing --export-latex knbgr-easy-trio003.svg
 
 ##	and "_" (5x); and \url{---}for URL
 

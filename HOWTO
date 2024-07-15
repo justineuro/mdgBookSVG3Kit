@@ -46,9 +46,9 @@
 	sed -i 's/\\textbf{knbgr/\\textbf{\\footnotesize \\tt knbgr/g' *.pdf_tex
 	sed -i 's/\\textbf{Perm/\\textbf{\\footnotesize \\tt Perm/g' *.pdf_tex
 	sed -i 's/\\textit{3}/\\textit{\\footnotesize 3}/g' *.pdf_tex
-	sed -i 's/\\smash{2}/\\smash{\\footnotesize 2}/g' *.pdf_tex
 	sed -i 's/\\textit{tr}/\\textit{\\footnotesize tr}/g' *.pdf_tex
 	sed -i 's/\\textbf{= 90/\\textbf{\\footnotesize = 90/g' *.pdf_tex
+	sed -i 's/\\textbf{= 80/\\textbf{\\footnotesize = 80/g' *.pdf_tex
 
 # Move svgList.txt.output to svgList.tex
 
@@ -88,7 +88,9 @@
 	sed -i.OLD 's/\\textit{tr}/\\textit{\\scriptsize tr}/g' knbgr-*.pdf_tex 
 	sed -i.OLD 's/\[t\]{c}\\textit{3}/\[t\]{c}\\textit{\\scriptsize 3}/g' knbgr-*.pdf_tex
 	sed -i.OLD 's/\[t\]{l}\\textit{/\[t\]{c}\\texttt{\\footnotesize /g' knbgr-*.pdf_tex
-	
+	sed -i 's/\\textbf{= 90/\\textbf{\\footnotesize = 90/g' knbgr-*.pdf_tex
+	sed -i 's/\\textbf{= 80/\\textbf{\\footnotesize = 80/g' knbgr-*.pdf_tex
+		
 # Generate the PDF
 
 	pdflatex -synctex=1 -interaction=nonstopmode -shell-escape mdgBookSVG3v1.tex

@@ -126,7 +126,7 @@ with_stdout("/tmp/001.txt",print(${diceS[0]} + (${diceS[1]}-1)*6 + (${diceS[2]}-
 printfile("/tmp/001.txt")$
 quit();
 EOF
-/usr/local/bin/maxima < /tmp/001.mac > /dev/null
+maxima < /tmp/001.mac > /dev/null
 dbNum=`cat /tmp/001.txt`
 #echo $dbNum
 

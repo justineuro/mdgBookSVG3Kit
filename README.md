@@ -1,6 +1,6 @@
 ## mdgBookSVG3Kit
 
-**Here's an opportunity for one to "compose" minuet-trios and to author a Collection Book!!!**
+**Here's an opportunity for one to "compose" minuet-trios and to author a Collection Book!!!**  
 
 This folder contains materials that allow the user to author a book containing a collection of [Musical Dice Games (MDG)](https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel) minuet-trios, generated based on the rules given in [*Der allezeit fertige Polonoisen- und Menuettencomponist* (*1757*)](https://imslp.org/wiki/Der_allezeit_fertige_Polonoisen-_und_Menuettencomponist_(Kirnberger%2C_Johann_Philipp)).
 

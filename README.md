@@ -4,7 +4,7 @@
 
 This folder contains materials that allow the user to author a book containing a collection of [Musical Dice Games (MDG)](https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel) minuet-trios, generated based on the rules given in [*Der allezeit fertige Polonoisen- und Menuettencomponist* (*1757*)](https://imslp.org/wiki/Der_allezeit_fertige_Polonoisen-_und_Menuettencomponist_(Kirnberger%2C_Johann_Philipp)).
 
-To creat a book, simply [download](https://github.com/justineuro/mdgBookSVG3Kit/archive/main.zip) (or clone: `git clone https://github.com/justineuro/mdgBookSVG3Kit.git`) this project to one's computer, unzip the downloaded archive, and at the command line inside the main folder (`mdgBookSVG3Kit-main` directory) issue the following command (pre-requisites: `bash`, `abcmidi`, `abcm2ps`, `Ghostscript`, `Inkscape`, `Maxima`, and `LaTeX`):
+To create a book, simply [download](https://github.com/justineuro/mdgBookSVG3Kit/archive/main.zip) (or clone: `git clone https://github.com/justineuro/mdgBookSVG3Kit.git`) this project to one's computer, unzip the downloaded archive, and at the command line inside the main folder (`mdgBookSVG3Kit-main` directory) issue the following command (pre-requisites: `bash`, `abcmidi`, `abcm2ps`, `Ghostscript`, `Inkscape`, `Maxima`, and `LaTeX`):
 
 ```shell
 bash HOWTO
